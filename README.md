@@ -4,7 +4,7 @@ Website for **RIG-444**, a bachelor's project at USN in cooperation. The project
 
 ## About this repository
 
-A static website made with plain HTML and CSS (no build step needed).
+A static website made with plain HTML and CSS (no build step needed). Designed with Figma.
 .
 ├── index.html     # main page
 ├── index.css      # styles for the main page
